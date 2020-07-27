@@ -1,0 +1,43 @@
+h1
+{
+   
+   font-family :  Bookman Old Style;
+   font-size : 250%;
+   text-align : center;
+   color : green
+	
+}
+h2
+{
+	 font-family :  Bookman Old Style;
+   font-size : 170%;
+   text-align : center;
+   color : blue
+	
+}	
+h3
+{
+	 font-family :  Bookman Old Style;
+   font-size : 150%;
+   text-align : center;
+   color : red
+	
+	
+}
+h4
+{
+	
+	 font-family :  Bookman Old Style;
+   font-size : 100%;
+   text-align : center;
+   color : red
+}
+body
+{
+	
+	text-align: center;
+	size : 100%
+}
+
+
+
